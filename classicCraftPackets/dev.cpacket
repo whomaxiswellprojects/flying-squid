@@ -1,0 +1,4 @@
+SourceData: new SourceData()
+State: SourceData.CraftPacketState
+SourceExit: new SourceOut(SourceData).Exit
+SourceExit(0)

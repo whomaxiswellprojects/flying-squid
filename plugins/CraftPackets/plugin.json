@@ -1,0 +1,9 @@
+{
+    "name": "CraftPackets",
+    "version": "1.0.0",
+    "description": "Adds Packets to BukkitJS",
+    "main": "craftpackets.js",
+
+    "permissions": {},
+    "commands": {}
+}

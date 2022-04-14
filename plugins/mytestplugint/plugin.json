@@ -1,0 +1,8 @@
+{
+    "name": "mytestplugint",
+    "version": "1.0.0",
+    "description": "My Plugin test",
+    "commands": {},
+    "permissions": {},
+    "main": "index.js"
+}
